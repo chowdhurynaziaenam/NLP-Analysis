@@ -70,12 +70,12 @@ Top traits wordcloud text for Bucky Barnes: other  second  original  further  gu
 
 This project includes content from the following Wikipedia pages:
 
-- [Iron Man]('https://en.wikipedia.org/wiki/Iron_Man')
-- [Spider-Man]('https://en.wikipedia.org/wiki/Spider-Man')
-- [Hulk]('https://en.wikipedia.org/wiki/Hulk')
-- [Captain America]('https://en.wikipedia.org/wiki/Captain_America')
-- [Thor]('https://en.wikipedia.org/wiki/Thor_(Marvel_Comics)')
-- [Bucky Barnes]('https://en.wikipedia.org/wiki/Bucky_Barnes')
+- [Iron Man] ('https://en.wikipedia.org/wiki/Iron_Man')
+- [Spider-Man] ('https://en.wikipedia.org/wiki/Spider-Man')
+- [Hulk] ('https://en.wikipedia.org/wiki/Hulk')
+- [Captain America] ('https://en.wikipedia.org/wiki/Captain_America')
+- [Thor] ('https://en.wikipedia.org/wiki/Thor_(Marvel_Comics)')
+- [Bucky Barnes] ('https://en.wikipedia.org/wiki/Bucky_Barnes')
 
 Content from these articles is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 

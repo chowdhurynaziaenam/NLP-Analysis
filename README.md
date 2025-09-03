@@ -14,9 +14,13 @@ A comprehensive repository which performs several NLP analyses scraping Wikipedi
 ## General Overview
 
 This project scrapes Wikipedia Pages for 6 Marvel comic characters- Iron Man, Spider-Man, Hulk, Captain America, Thor (Marvel Comics), and Bucky Barnes. It calculates the popularity Score using a weighted sum of metrics such as word count, page text size, number of headings, images, tables, infobox size, internal wiki links, section depth, category count etc. It also identifies the adjectives associated with each character to determine their key personality traits. Using TF-IDF (Term Frequency-Inverse Document Frequency) Analysis, here the most distinctive keywords associated with each character was identified. The TF-IDF score is a numerical value that increases when a word appears frequently in a document, and decreases when the same word appears in many documents. Based on the score, character cluster analysis is performed. It also shows the most commonly mentioned entities i.e., people, organizations, work of art, and locations in relation to each Marvel character from their Wikipedia article. It further analyses the emotional tone of character descriptions and extracts the most positive and negative sentences. It interprets the sentiment using TextBlob tool showing Polarity, Subjectivity, and Mentioned Polarity.
+
 •	Polarity: It shows the sentiment of a text ranging the value between -1 (very negative) to 1 (very positive) where 0.0 is neutral sentiment.
+
 •	Subjectivity: It shows article subjectivity referring to how personal or opinion-based the text is. The value of it ranges between 0 (objective) to 1 (very subjective).
+
 •	Mentioned Polarity: It refers to the explicit sentiment attached to a particular entity mentioned in the text.
+
 Finally, it generates Trait-based Word cloud and visualizes the traits or adjectives for each Marvel comic character.
 
 ## Environment

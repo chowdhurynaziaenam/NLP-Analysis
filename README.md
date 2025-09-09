@@ -30,18 +30,20 @@ The project was executed using Google Colab.
 ## Libraries & Packages 
 
 Web scraping: 
-*beautifulsoup (from bs4 package): For extracting raw text data from websites (Wikipedia pages) for further NLP processing.
+
+-beautifulsoup (from bs4 package): For extracting raw text data from websites (Wikipedia pages) for further NLP processing.
 
 Natural Language Processing (NLP) Libraries
-*nltk (Natural Language Toolkit): For tokenization
-*textblob: For sentiment analysis, phrase extraction
-*spacy: For entity recognition
+
+-nltk (Natural Language Toolkit): For tokenization
+-textblob: For sentiment analysis, phrase extraction
+-spacy: For entity recognition
 
 Data visualisation, manipulation, and analysis
-* NumPy: For numerical operations
-* Matplotlib: For plotting graphs
-* Pandas: For data manipulation and analysis
-* Scikit-learn (sklearn)
+-NumPy: For numerical operations
+-Matplotlib: For plotting graphs
+-Pandas: For data manipulation and analysis
+-Scikit-learn (sklearn)
   
 
 ## Results

@@ -1,4 +1,4 @@
-## Web scraping
+## NLP analysis
 
 A comprehensive repository which performs several NLP analyses scraping Wikipedia pages for 6 Marvel Comic characters.
 
